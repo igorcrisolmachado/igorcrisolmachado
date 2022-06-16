@@ -1,7 +1,7 @@
 ##Ola eu sou igorcrisolmachado !
 
-- 🔭 Estou trablhando em outra area.
-- 🌱 Estudando HTML, CSS e logica de programaçã
+- 🔭 Estou trabalhando em outra area.
+- 🌱 Estudando HTML, CSS, logica de programação e js.
 - 😄 Pronouns: ele/dele 
 <div align="center">
   <a href="https://github.com/igorcrisolmachado">
@@ -14,5 +14,4 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
